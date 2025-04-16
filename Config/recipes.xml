@@ -14,8 +14,7 @@
         </recipe>
 
         <recipe name="frames_ekoSwitchbackDay21Shapes" count="1" craft_time="5">
-            <ingredient name="frameShapes:VariantHelper" count="59"/>
-            <ingredient name="frameShapes:VariantHelper" count="116"/>
+            <ingredient name="frameShapes:VariantHelper" count="175"/>
         </recipe>
 
         <recipe name="frames_ekoSwitchbackDay28Shapes" count="1" craft_time="5">
@@ -28,8 +27,7 @@
     <append xpath="//recipes">
         
         <recipe name="frames_ekoSeekersBaneStage1Step1PillarsAndPlatform" count="1" craft_time="1">
-            <ingredient name="frameShapes:VariantHelper" count="120"/>
-            <ingredient name="frameShapes:VariantHelper" count="90"/>
+            <ingredient name="frameShapes:VariantHelper" count="210"/>
         </recipe>
 
         <recipe name="frames_ekoSeekersBaneStage1Step2Ramp" count="1" craft_time="1">
